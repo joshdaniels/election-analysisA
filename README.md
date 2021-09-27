@@ -8,6 +8,8 @@ Secondarily, We wanted to know the voter turnout for each county and what county
 
 ### Election-Audit Results
 
+![output results](https://github.com/joshdaniels/election-analysisA/blob/main/election-results.png)
+
 * 369,711 votes were cast in this election
 
 * In the precinct, Jefferson county recieved 10.5% of the votes with 38,855 votes
@@ -27,10 +29,9 @@ Secondarily, We wanted to know the voter turnout for each county and what county
 * Diana DeGette won the popular vote and recieved 73.8% of the votes with 272,892 votes
 
 Example of the data we analyzed:
+
 ![raw data](https://github.com/joshdaniels/election-analysisA/blob/main/election-data.png)
 
-Output of our analysis:
-![output results](https://github.com/joshdaniels/election-analysisA/blob/main/election-results.png)
 
 ### Election-Audit Summary
 
