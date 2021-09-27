@@ -1,12 +1,12 @@
-##Overview of Election Audit:
+## Overview of Election Audit:
 
-###Purpose of the Analysis
+### Purpose of the Analysis
 Within the following counties, We want to determine what canditates have more than 0 votes, who has what votes and who ended up winning the popular vote.
 
 Secondarily, We wanted to know the voter turnout for each county and what county had the highest voter turnout
 
 
-###Election-Audit Results
+### Election-Audit Results
 
 * 369,711 votes were cast in this election
 
@@ -26,7 +26,7 @@ Secondarily, We wanted to know the voter turnout for each county and what county
 
 * Diana DeGette won the popular vote and recieved 73.8% of the votes with 272,892 votes
 
-###Election-Audit Summary
+### Election-Audit Summary
 
 In summary, This code can be used in any similar election that the commision runs. 
 Potentially we could adjust the script to show the voter turnout percentage of growth with multiple years of data.
