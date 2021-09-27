@@ -30,7 +30,7 @@ Example of the data we analyzed:
 ![raw data](https://github.com/joshdaniels/election-analysisA/blob/main/election-data.png)
 
 Output of our analysis:
-![output](https://github.com/joshdaniels/election-analysis/blob/main/election-results.png)
+![output results](https://github.com/joshdaniels/election-analysisA/blob/main/election-results.png)
 
 ### Election-Audit Summary
 
